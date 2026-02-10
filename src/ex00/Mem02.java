@@ -30,6 +30,7 @@ class Genesis extends Car{
 class BMW extends Car{
 }
 
+
 public class Mem02 {
 
     public static void main(String[] args) {
