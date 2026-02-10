@@ -10,7 +10,6 @@ package ex00;
  *  5. 메서드 실행시에 stack이 열린다.
  */
 
-
 class Animal{
     String name = "강아지";
      void bark(){
